@@ -1,0 +1,23 @@
+# Rust
+/target/
+**/*.rs.bk
+*.pdb
+Cargo.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 配置文件
+config.yaml
+*.local.yaml
+
+# 日志文件
+*.log
+
+# 临时文件
+/tmp/
